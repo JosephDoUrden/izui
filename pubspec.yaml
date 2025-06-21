@@ -1,0 +1,31 @@
+name: izui
+description: A futuristic, modern and responsive UI library for Flutter with liquid glass effects, advanced glassmorphism, neon animations, and Apple-inspired components.
+version: 1.1.0
+homepage: https://github.com/yourusername/izui
+repository: https://github.com/yourusername/izui
+issue_tracker: https://github.com/yourusername/izui/issues
+documentation: https://github.com/yourusername/izui/blob/main/README.md
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+topics:
+  - ui
+  - widgets
+  - futuristic
+  - glassmorphism
+  - modern
+  - responsive 
