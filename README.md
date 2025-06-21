@@ -29,6 +29,29 @@ A cutting-edge, futuristic UI library for Flutter that provides developers with 
 - ♿ **Accessible**: WCAG 2.1 AA compliant components
 - 🌙 **Dark-First**: Optimized for dark themes with light theme support
 
+## 📱 Screenshots
+
+Get a visual preview of IzUI's futuristic components in action:
+
+<div align="center">
+
+### Button Gallery
+<img src="images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-06-21%20at%2019.45.26.png" width="300" alt="IzUI Button Gallery - Various futuristic button variants with neon glow effects">
+
+### Input Components  
+<img src="images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-06-21%20at%2019.45.35.png" width="300" alt="IzUI Input Components - NeuraTextField with scanning animations and glow effects">
+
+### Glass Cards
+<img src="images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-06-21%20at%2019.45.40.png" width="300" alt="IzUI Glass Cards - Glassmorphism and liquid glass components with neon accents">
+
+### Interactive Grid
+<img src="images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-06-21%20at%2019.45.48.png" width="300" alt="IzUI Interactive Grid - Colorful neon glass cards in responsive grid layout">
+
+### Responsive Layout
+<img src="images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202025-06-21%20at%2019.45.53.png" width="300" alt="IzUI Responsive Layout - Color palette and responsive design showcase">
+
+</div>
+
 ## 🚀 Quick Start
 
 ### Installation
@@ -37,7 +60,7 @@ Add IzUI to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  izui: ^1.0.0
+  izui: ^1.1.0
 ```
 
 Run:
