@@ -334,11 +334,11 @@ flutter run
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+We welcome contributions! Please read our [Contributing Guide](https://github.com/JosephDoUrden/izui/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/JosephDoUrden/izui/blob/main/LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
@@ -350,4 +350,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ⚡ by the IzUI Team**
 
-For more information, visit our [documentation](https://github.com/yourusername/izui) or check out the [API reference](https://pub.dev/documentation/izui/latest/).
+For more information, visit our [documentation](https://github.com/JosephDoUrden/izui) or check out the [API reference](https://pub.dev/documentation/izui/latest/).

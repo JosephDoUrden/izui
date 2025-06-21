@@ -1,10 +1,10 @@
 name: izui
 description: A futuristic, modern and responsive UI library for Flutter with liquid glass effects, advanced glassmorphism, neon animations, and Apple-inspired components.
 version: 1.1.0
-homepage: https://github.com/yourusername/izui
-repository: https://github.com/yourusername/izui
-issue_tracker: https://github.com/yourusername/izui/issues
-documentation: https://github.com/yourusername/izui/blob/main/README.md
+homepage: https://github.com/JosephDoUrden/izui
+repository: https://github.com/JosephDoUrden/izui
+issue_tracker: https://github.com/JosephDoUrden/izui/issues
+documentation: https://github.com/JosephDoUrden/izui/blob/main/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
